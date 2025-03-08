@@ -2,3 +2,6 @@ This was a script for roblox which was discontinued. Yes I to exploit on Roblox 
 
 Feb 26, 2023 - Jan 13, 2024 
 -TheFunnyCactus
+
+
+Update: Notification for a specific roblox script i had previously made 3 years ago. (its an archive, you can use the library)
